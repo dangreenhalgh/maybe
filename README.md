@@ -1,6 +1,8 @@
 # Maybe
 Maybe types for Go
 
+This is a work-in-progress and only covers a few built-in types.
+
 ## Usage
 
 ```go
